@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Button</string>
+    <string name="btn1">구글 홈페이지 열기</string>
+    <string name="btn2">119 전화걸기</string>
+    <string name="btn3">갤러리</string>
+    <string name="btn4">The end</string>
+</resources>
